@@ -1,0 +1,25 @@
+*{
+  margin: 0%;
+  font-family: "Montserrat", sans-serif;
+}
+
+.bookContainer{
+  margin: 3vh;
+}
+.book{
+  display: flex;
+  flex-direction: row;
+  margin: 1vh;
+  align-items: center;
+}
+h3 {
+  margin-top: 3vh;
+  margin-left: 1.5vh;
+}
+#bookDes{
+  margin-left: 2vh;
+}
+h2 {
+  margin-left: 1.5vh;
+  margin-bottom: 3vh;
+}
